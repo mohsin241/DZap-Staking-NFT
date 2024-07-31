@@ -22,14 +22,15 @@ The `DZap_Staking_NFT` contract is an upgradeable staking contract for NFTs. Use
 
 1. Clone the repository:
 
-   git clone https://github.com/your-repo/dzap-staking-nft.git
+   git clone https://github.com/mohsin241/DZap-Staking-NFT.git
+   
    cd dzap-staking-nft
 
-2. install dependencies:
+3. install dependencies:
 
    npm install
 
-3. create .env file
+4. create .env file
 
 ## Deployment 
 
